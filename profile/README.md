@@ -1,4 +1,4 @@
-# Unknown Fitness App
+# Wardrobe app
 
 Welcome to the unknwon fitness app GitHub organization. This organization houses the design, documentation, and source code of an unknown fitness app that is being developed by a couple of friends. We have recently completeing our computer science educations and are looking to obtain real-word experience before entering the workforce. 
 
