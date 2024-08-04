@@ -16,4 +16,4 @@ The finer details of these features have yet to be refined. Any additional featu
 
 ### Application type
 
-We are building a webapp that is capable of being self-hosted. The application will involve a frontend webview and a backend API and database to save application state. For the frontend webiew, we are considering using [VueJs](https://vuejs.org). The backend details have not yet been discussed.
+We are building a webapp that is capable of being self-hosted. The application will involve a frontend webview and a backend API and database to save application state. For the frontend webiew, we are considering using React and next.js. The backend details have not yet been discussed.
